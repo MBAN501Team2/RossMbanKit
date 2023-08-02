@@ -1,34 +1,37 @@
-# Cross-references {#cross}
+# About us: Matthew and the Girls
 
-Cross-references make it easier for your readers to find and link to elements in your book.
+![](images/group%202%20ba%20501%20photo.jpg){width="337"}
 
-## Chapters and sub-chapters
+## Matthew Weintraub
 
-There are two steps to cross-reference any heading:
+Hi! My name is Matthew Weintraub. Before joining the Master of Business Analytics here at Ross, I graduated from the University of Michigan-Dearborn majoring in Marketing and Economics. After graduating, I went on to work as a Credit Analyst for Oxford Bank here in Michigan. I underwrote commercial loans and helped Oxford Bank determine if a commercial loan should proceed to approval. I am very excited to further my knowledge about business and analytics here at the Ross School of Business!
 
-1. Label the heading: `# Hello world {#nice-label}`. 
-    - Leave the label off if you like the automated heading generated based on your heading title: for example, `# Hello world` = `# Hello world {#hello-world}`.
-    - To label an un-numbered heading, use: `# Hello world {-#nice-label}` or `{# Hello world .unnumbered}`.
+![](images/M%20Card%20Photo.jpeg){width="175"}
 
-1. Next, reference the labeled heading anywhere in the text using `\@ref(nice-label)`; for example, please see Chapter \@ref(cross). 
-    - If you prefer text as the link instead of a numbered reference use: [any text you want can go here](#cross).
+## Jie Wang
 
-## Captioned figures and tables
+Hello, my name is Jie Wang. I graduated from University of North Florida majoring in Transportation and Logistics. I am currently enrolled in Master of Business Analytics at Ross School of Business. 
 
-Figures and tables *with captions* can also be cross-referenced from elsewhere in your book using `\@ref(fig:chunk-label)` and `\@ref(tab:chunk-label)`, respectively.
+![](images/Jie%20Wang.jpeg){width="178"}
 
-See Figure \@ref(fig:nice-fig).
+## Pooja Modawel
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center', fig.alt='Plot with connected points showing that vapor pressure of mercury increases exponentially as temperature increases.'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
+Hello, my name is Pooja. I graduated from the University of South Dakota with a double major in Economics and Operational Analytics in May of 2022. This past year, I worked as an Area Manager at Amazon, where I familiarized myself with the Supply Chain and Logistics side of the business. I am currently pursuing the Masters of Business Analytics degree at the University of Michigan's Ross School of Business. I am excited to see what the future holds as I pursue my goal to become a Data Analyst.
 
-Don't miss Table \@ref(tab:nice-tab).
+Here are some fun facts about me: I am from New Delhi, India, I love traveling and visited 25 different states in the US in the last few years, and I enjoy playing tennis in my free time!
 
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(pressure, 10), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
+![](images/Pooja.jpeg){width="159"}
+
+## Jolene Chung
+
+Hello, my name is Jolene. I recently graduated from Indiana University with majors in Marketing and Digital and Social Media Business Applications. As of now, I am a student studying Business Analytics at the Stephen M. Ross School of Business. 
+
+In my free time, I enjoy listening to music and organizing my living space. A fun fact about me is that I dreamt of being a rocket scientist when I was young but found out in middle school that I am bad at Math and Physics.
+
+![](images/Jolene.jpg){width="168"}
+
+## Summer Qu
+
+Hi, my name is Hi, my name is Summer Qu. I graduated from American University in May majoring in Accounting. Now I'm studying Business Analytic at Ross School of Business as a master student. I like to read books in my free time. Recently I just started a new book called "The Courage to be Disliked" by Ichiro Kishimi and Fumitake Koga and I also like to play games(Zelda is my favorite one). Fun fact about me is that I love animals and I have three cats in my home in China.
+
+![](images/Yinuo.JPG){width="288"}
