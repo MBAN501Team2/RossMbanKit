@@ -1,3 +1,4 @@
+#FQA
 From the survey conducted, Students were asked to tell us about problems they would like Chat GPT to address. Of all the responses, the two questions that were frequently mentioned by our respondents were:
 1.How can ChatGPT be more reliable and accurate for educational purposes?
 2.How can ChatGPT be tailored to better support learning and academic needs?

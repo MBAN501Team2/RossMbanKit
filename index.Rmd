@@ -18,21 +18,3 @@ The MBAn program is an intensive 10-month experience, packed with a wealth of in
 In this project, we created chapters that we feel represent the main challenges of students. We introduce the authors of the project as well as the process we went through to create this guide. The chapters cover information about Career Planning, Homework Reference Guide, and Work-life Balance, to provide students with fun and successful experience at the Ross School of Business.
 
 
-
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
-
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
