@@ -20,5 +20,244 @@ In this project, we created chapters that we feel represent the main challenges 
 
 
 
+```{r, eval=FALSE}
+bookdown::render_book()
+```
 
+
+
+```{r eval=FALSE}
+bookdown::serve_book()
+```
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+<!--chapter:end:index.Rmd-->
+
+# Table of Contents
+
+1.  About Us
+2.  Overview of Our Book
+3.  ChatGPT
+4.  Best Practices Guide for Students of Matt and girls
+5.  what is chatGPT? - 8/14
+6.
+
+<!--chapter:end:01-intro.Rmd-->
+
+# About us: Matthew and the Girls
+
+![](images/group%202%20ba%20501%20photo.jpg){width="337"}
+
+## Matthew Weintraub
+
+Hi! My name is Matthew Weintraub. Before joining the Master of Business Analytics here at Ross, I graduated from the University of Michigan-Dearborn majoring in Marketing and Economics. After graduating, I went on to work as a Credit Analyst for Oxford Bank here in Michigan. I underwrote commercial loans and helped Oxford Bank determine if a commercial loan should proceed to approval. I am very excited to further my knowledge about business and analytics here at the Ross School of Business!
+
+![](images/M%20Card%20Photo.jpeg){width="175"}
+
+## Jie Wang
+
+Hello, my name is Jie Wang. I graduated from University of North Florida majoring in Transportation and Logistics. I am currently enrolled in Master of Business Analytics at Ross School of Business. 
+
+![](images/Jie%20Wang.jpeg){width="178"}
+
+## Pooja Modawel
+
+Hello, my name is Pooja. I graduated from the University of South Dakota with a double major in Economics and Operational Analytics in May of 2022. This past year, I worked as an Area Manager at Amazon, where I familiarized myself with the Supply Chain and Logistics side of the business. I am currently pursuing the Masters of Business Analytics degree at the University of Michigan's Ross School of Business. I am excited to see what the future holds as I pursue my goal to become a Data Analyst.
+
+Here are some fun facts about me: I am from New Delhi, India, I love traveling and visited 25 different states in the US in the last few years, and I enjoy playing tennis in my free time!
+
+![](images/Pooja.jpeg){width="159"}
+
+## Jolene Chung
+
+Hello, my name is Jolene. I recently graduated from Indiana University with majors in Marketing and Digital and Social Media Business Applications. As of now, I am a student studying Business Analytics at the Stephen M. Ross School of Business. 
+
+In my free time, I enjoy listening to music and organizing my living space. A fun fact about me is that I dreamt of being a rocket scientist when I was young but found out in middle school that I am bad at Math and Physics.
+
+![](images/Jolene.jpg){width="168"}
+
+## Summer Qu
+
+Hi, my name is Hi, my name is Summer Qu. I graduated from American University in May majoring in Accounting. Now I'm studying Business Analytic at Ross School of Business as a master student. I like to read books in my free time. Recently I just started a new book called "The Courage to be Disliked" by Ichiro Kishimi and Fumitake Koga and I also like to play games(Zelda is my favorite one). Fun fact about me is that I love animals and I have three cats in my home in China.
+
+![](images/Yinuo.JPG){width="288"}
+
+<!--chapter:end:02-cross-refs.Rmd-->
+
+Welcome to our website!
+The MBAn program is an intensive 10-month experience, packed with a wealth of information within a short timeframe. This abundance of material can create challenges for students as they strive to balance their academic goals with their mental health. In response to these common struggles, we present the “Ross Community Survival Kit” – a concise and practical reference guide. This kit empowers students to use AI generative models to effectively manage daily tasks, achieve personal goals, and strike a harmonious work-life balance. By incorporating stress management techniques, students can remain on track academically while ensuring their overall well-being.
+Throughout the website, we introduce the authors of the project, how ChatGPT works, ChatGPT's advantages/disadvantages and controversies, as well as the process we went through to create this guide. In the depth of this project, we created chapters that we feel represent the main challenges of students. The chapters will cover information about Career Planning, Homework Reference Guides, and Work-life Balance, all to provide students with a fun and successful experience at the Ross School of Business.
+
+
+
+
+
+<!--chapter:end:03-parts.Rmd-->
+
+# Advantages of ChatGPT
+ChatGPT offers an incredibly realistic conversational experience, making users feel like they're talking to a real person. It's akin to interactions with virtual assistants like Siri or Alexa. Users just need to type their questions and interests, and ChatGPT quickly responds with thorough and relevant answers. This creates a smooth and engaging conversation that feels just like real life.
+One of ChatGPT's standout features is its impressive coverage of a wide range of subjects. It doesn't limit itself to academics or entertainment – it comfortably spans both realms. This adaptability makes it a valuable tool for students and professionals alike. It helps with generating ideas, brainstorming for projects, and giving useful feedback. Even in specific fields like coding, ChatGPT excels at giving accurate answers and clear explanations, making it an accessible resource for understanding complex topics.
+However, what truly sets ChatGPT apart is its constant availability, 24/7. In situations where human assistance might be scarce, ChatGPT remains accessible and ready to respond day or night. This constant accessibility is especially crucial for urgent queries or when immediate attention is required. ChatGPT's ability to handle pressing questions and provide swift help reinforces its role as a dependable virtual companion. It proves invaluable for navigating the complexities of modern information access and problem-solving.
+NOTE: Links to the information provided in this section are located in the References page.
+
+<!--chapter:end:04-citations.Rmd-->
+
+# Disvantages of ChatGPT
+Although ChatGPT can be a useful tool for generating ideas and writing essays, it can also have a detrimental effect on students' creativity and composition skills. By relying solely on the artificial intelligence of the program, students are unable to exercise their own creative thinking and develop their own writing skills. This can lead to an over-reliance on the technology, reducing the students' ability to express themselves in a meaningful and unique way. 
+During the undergraduate and early graduate years, young professionals have the unique opportunity to hone their communication and critical thinking skills. It is during this time that many develop the capacity to think quickly and make sound decisions. These skills are essential for success in any field, and are often developed during this period of a young professional's life. However, if ChatGPT and other Articial Intelligence are extensively used in this period the next generation will lose the opportunity to develop critical skills. 
+For students that use ChatGPT for assignments and problem solving, they often encounter challenges with the accuracy and quality of the responses. In many cases, the answers are either inaccurate or the responses are similar and repetitive across users, which can cause frustration and lead to time wasted on obtaining the correct answer. ChatGPT has the potential of becoming a useful learning tool but it still has a long way to go before it could be totally relied on.
+NOTE: Links to the information provided in this section are located in the References page.
+
+<!--chapter:end:05-blocks.Rmd-->
+
+# Controversy
+Is Using ChatGPT Cheating?
+Since its launch by OpenAI in November 2022, ChatGPT has become a hot topic on the internet. Educational integrity is a significant concern in the context of advanced AI like ChatGPT. The ease with which students can get answers, explanations, and even complete essays can lead to a culture of academic dishonesty. Without proper safeguards in place, the authenticity of students' work may be questioned. Schools and institutions might need to re-evaluate their assessment techniques, perhaps moving away from traditional forms of testing and focusing more on problem-solving, creativity, and application of knowledge, which are harder to cheat.
+Ethical Issues
+The responsibility and accountability of AI models, especially ones as advanced as ChatGPT, is a multifaceted issue that touches on ethics, law, and technology. When such a model provides a harmful or incorrect suggestion, determining who is responsible becomes crucial. The developers determine the model's training, including the data it's exposed to, and the techniques used to refine its responses. If there's a flaw in the model that leads to harmful outputs, it could be argued that the developers didn't do enough to mitigate potential risks. Given the complexity and the vast amount of data used to train these models, it's nearly impossible to predict and mitigate all harmful outputs. Some are concerned that the users of AI tools may misuse the tool or rely on it without exercising due diligence. For instance, a user knowingly prompts ChatGPT to generate harmful content. As AI technology advances, there's a growing need for regulatory agencies to create and enforce frameworks that ensure responsible AI use. These agencies could provide guidelines on the ethical development and deployment of AI, ensuring that all stakeholders are aware of their roles and responsibilities.
+Can ChatGPT replace my job?
+As technology evolves, the boundaries of what machines can achieve expand, and in many cases, this directly intersects with human roles. The capabilities of ChatGPT raise questions about the future of jobs that rely heavily on language skills, such as customer support and administrative roles. There's a genuine concern about economic shifts and job losses due to such advanced AI models. ChatGPT's ability to generate human-like text has implications for content creators. Writers, journalists, and editors might find that routine tasks, like drafting standard reports or basic articles, could be automated. However, jobs that require a deeper level of creativity, emotional resonance, and cultural context might remain beyond the reach of AI for the foreseeable future. A teaching assistant is another concern. ChatGPT can provide answers to a wide range of questions, making it a potential tool for tutoring or assisting students with homework. While it's unlikely to replace the nuanced understanding and mentorship a human teacher provides, it could reduce the demand for certain tutoring roles. While ChatGPT and similar models have the potential to automate certain job functions, the complete replacement of many roles remains a complex issue.
+Humans are too reliant on AI technology
+The convenience and capabilities of ChatGPT might lead to an over-reliance on technology, potentially stifling human creativity, critical thinking, and problem-solving skills. ChatGPT can instantly provide answers to all aspects of questions. Over time, this convenience can impact the processes associated with critical thinking. For creative professionals, the temptation to use ChatGPT for brainstorming or even content generation can be enticing. However, over-dependence might lead to a decline in original thought, with outputs reflecting more of the AI's training data than true human creativity. Relying on AI for quick solutions might also deprive individuals of the valuable learning that comes from problem-solving.
+NOTE: Links to the information provided in this section are located in the References page.
+
+
+
+
+<!--chapter:end:06-share.Rmd-->
+
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+Introducing ChatGPTOpenAIhttps://openai.com › blog › chatgpt
+https://www.techtarget.com/whatis/definition/ChatGPT
+https://www.pcguide.com/apps/what-is-chat-gpt/
+https://www.techgropse.com/blog/everything-you-need-to-know-about-chat-gpt/
+https://www.techtarget.com/whatis/definition/ChatGPT
+https://blog.waalaxy.com/en/chatgpt-reliable-sources/
+https://www.apa.org/monitor/2023/06/chatgpt-learning-tool
+https://www.mydreamgravity.com/post/chatgpt-in-career-planning#:~:text=Answer%3A%20ChatGPT%20is%20a%20chatbot,and%20feedback%20in%20real%20time.
+
+<!--chapter:end:07-references.Rmd-->
+
+# Advantages of ChatGPT
+ChatGPT offers an incredibly realistic conversational experience, making users feel like they're talking to a real person. It's akin to interactions with virtual assistants like Siri or Alexa. Users just need to type their questions and interests, and ChatGPT quickly responds with thorough and relevant answers. This creates a smooth and engaging conversation that feels just like real life.
+One of ChatGPT's standout features is its impressive coverage of a wide range of subjects. It doesn't limit itself to academics or entertainment – it comfortably spans both realms. This adaptability makes it a valuable tool for students and professionals alike. It helps with generating ideas, brainstorming for projects, and giving useful feedback. Even in specific fields like coding, ChatGPT excels at giving accurate answers and clear explanations, making it an accessible resource for understanding complex topics.
+However, what truly sets ChatGPT apart is its constant availability, 24/7. In situations where human assistance might be scarce, ChatGPT remains accessible and ready to respond day or night. This constant accessibility is especially crucial for urgent queries or when immediate attention is required. ChatGPT's ability to handle pressing questions and provide swift help reinforces its role as a dependable virtual companion. It proves invaluable for navigating the complexities of modern information access and problem-solving.
+NOTE: Links to the information provided in this section are located in the References page.
+
+<!--chapter:end:Advantages.Rmd-->
+
+#Career planning
+One of the questions from the survey we conducted was: What is your motivation to use ChatGPT?
+From the graph displayed below you can see 44% of the students prefer using Chat GPT for resume and Career Building.
+Let's explore some ways where we can utilize Chat GPT as a resource for career planning!
+One of the best things Chat GPT offers is the ability to receive guidance anytime, at any given moment. When it comes to career planning, ChatGPT provides real time feedback which is not only cost effective but also time efficient. Googling resumes and cover letters usually give us templates that we need to tailor according to our needs but with chat GPT we can provide it with some information and it will generate a customized template for us to work with. According to the article, “Chat GPT in Career Planning: How it will Change the Game?”, It is projected that in the future the chat bots will be integrated into the resume building tools. Integration of the chat bots with the services will yield even better results building resumes as they will be perfectly tailored according to the candidates qualifications and job preferences.
+Examples of Using ChatGPT for Career Building
+1.Resume Building:
+Say you are applying to a consulting position in a company, you can use chatGPT to tailor your resume to fit the company requirements in such a way that your experiences demonstrate the necessary skills. Here is an example of how chat GPT provides assistance:
+You can make it even more personalized by providing your experience in the chat prompt and ask it to tailor a particular work experience!
+2.Cover Letter:
+Similar to resume building you can chat GPT for templates of the position you are applying to and ask it to tailor the cover letter based on your work experiences. Here is an example of a template for a consulting position at Deloitte:
+Now you can alter this template by inputting your skills and experience and fit the requirements of the position!
+3.Interview Preparations:
+You can treat chatGPT as a mock interview platform and ask it to prepare some questions that are asked in an interview for a particular job. Chat GPT provides some questions that get you started on thinking on your feet and even provides sample answers for references.Here is an example of how you can use ChatGPT for some questions:
+
+<!--chapter:end:CareerPlanning.Rmd-->
+
+#Get the most out of chat gpt
+
+We will cover ways in which students can be more efficient and extract valuable information for a given task using Chat GPT. As students, our main priorities are to land a great job that pays well, score high on our assessments, and also keep a balance between work and social life.
+
+In the following pages, we cover ways you can utilize chat GPT to be successful as a student. We will be covering three specific areas where students can alter their responses to get more personalized ChatGPT generated responses : 
+Chat GPT for Career Planning
+Chat GPT for Homework
+Chat GPT for Well Being
+
+<!--chapter:end:ChatGPT.Rmd-->
+
+From the survey conducted, Students were asked to tell us about problems they would like Chat GPT to address. Of all the responses, the two questions that were frequently mentioned by our respondents were:
+1.How can ChatGPT be more reliable and accurate for educational purposes?
+2.How can ChatGPT be tailored to better support learning and academic needs?
+Below are some tips students can use to personalize the AI chat box to meet their expectations:
+1.Initial Information Gathering:
+Using ChatGPT for getting a general idea of the topic you are exploring might be a better way to grasp understanding of a new topic. One can ask questions about the history, key concepts etc. After the basic information is gathered it can help us to brainstorm and check our sources from other websites.
+Example: "Can you provide a brief overview of agile analytics?"
+2.Clarification and Specification:
+We commonly hear “Chat GPT provides generic information that is repetitive ''. One way to avoid getting generalized answers is getting specific with chat GPT. For example, you can use Chat GPT to summarize an article but it only gives you the basic information about the topic. To dive deep, you can ask chat GPT to elaborate on a specific sentence of the summary generated by chat GPT. This helps getting a more personalized answer. Also asking questions back and forth with chat gpt also helps us to understand the topic in detail. 
+Example: "Can you talk more about agile and psychological safety and how it relates to teams?"
+3.Step-by-Step Explanations:
+If one is dealing with a technical problem, Chat GPT is a great tool to get step by step explanations of each function. For example, while working on python coding homework, you require help with understanding a particular function. You can ask chat gpt to provide you a step by step explanation and it will walk you through the whole process. For quick learning, this is one of the most efficient tools.
+Example: “Give me a step by step explanation of combining datasets in python based on the date”
+4.Ask Chat GPT for sources of the information it provides:
+According to the article, “How can ChatGPT find reliable sources?”, ChatGPT provides information about the author and the source, and assesses the credibility of the source. The chatbox can also provide information about organizations that support the source.
+Example: "Which websites can I refer to find data sets?"
+
+
+<!--chapter:end:FAQ.Rmd-->
+
+#Well-being
+People often wonder how Chat GPT can help with personal well-being? Besides ChatGPT’s interactive and educational features, ChatGPT provides a variety of ways to improve users' well-being. It gives users the chance to have an honest chat with an AI-driven conversational companion about their ideas, worries, and feelings. As users have a non-judgmental and empathic platform to express themselves, this dialogue can be very helpful in lowering feelings of loneliness and stress. ChatGPT provides users with helpful tactics to improve their mental and emotional health by providing insights on subjects including stress management methods, self-care rituals, and mindfulness activities. When we simply are not willing to use our mental capacity to make some decisions, ChatGPT is also an excellent resource for assisting in the discovery of self-care solutions and offering recommendations for self-care. Depending on your preferences, it may also offer recommendations for new hobbies to try or instructions on how to begin a new pastime once you've made your choice.
+ChatGPT can also assist users in creating a personalized workout plan, tailored to their exercise frequency. By taking into account users' workout habits, ChatGPT can generate a workout plan that suits their needs, helping them avoid overexertion and muscle fatigue. This feature can be particularly useful for individuals seeking to maintain a balanced and sustainable fitness routine. With ChatGPT's guidance, users can ensure that their exercise regimen aligns with their goals and physical capabilities, promoting overall well-being and long-term fitness success. Below are some examples of how students can use ChatGPT to improve their well-being:
+
+<!--chapter:end:GameTheory.Rmd-->
+
+#Homework
+ChatGPT represents a new era of AI with the potential to transform education. Although the policies about chat GPT usage is still unclear, professors encourage students to use ChatGPT as a supplemental material, to promote better understanding of complex ideas. 
+From the research conducted on Ross Students about the ChatGPT, 54.29% of Ross students find it useful for writing and content creation, 31.43% find it helpful for problem solving, and 14.29% find it helpful for understanding the context of the problem. See the below graph for more detail. 
+Given the students' responses, below will outline the ways to utilize ChatGPT for understanding the context of a problem, problem-solving and decision-making, and writing and content creation.
+1.Understanding context of a problem:
+When a student struggles with a specific topic, they often need a simpler explanation. ChatGPT can offer explanations on different subjects, and even alter the response to the level of expertise desired by the user. It gives more value to students as it allows students to ask personalized questions. Below is an example of how to utilize ChatGPT to simplify learning for its users about “Game Theory”.
+2.Decision Making and Problem Solving
+ChatGPT serves as a valuable assistant for both math and coding assignments. It can guide students through complex problems by providing “step-by-step solutions” which help students understand the concepts better. When it comes to coding, ChatGPT assists in debugging, offers syntax recommendations for errors, and provides explanations for programming concepts. This capability ensures that learners have a reliable tool to navigate anywhere and anytime in case scheduling meetings with professors or tutors is not possible at a certain hour. It is one’s “24 X 7” helpline for homework assistance. Below is an example of debugging an error message from the python code to import files:
+
+3.Writing and content creation:
+Students often utilize ChatGPT as a reliable tool for grammar checks. ChatGPT has been trained on identifying and grammatical errors, from “simple mistakes like subject-verb agreement to more nuanced issues like misplaced modifiers”. It is particularly advantageous for international students. As they are able to learn on the go, and get instant feedback on what needs to be corrected in their writing script. Here is an example of how students can use chatGPT for grammar checks and writing supplement: 
+
+<!--chapter:end:Homework.Rmd-->
+
+# Intro to Our Research
+Now that we have our story for our project, how do we conduct research to find out what students want to see out of ChatGPT? 
+We went out of our comfort zone and interviewed over 100 students at the Ross School of Business to gauge their insights about ChatGPT, if they use it, what they use it for, do they take into account biases, what they would like to see from ChatGPT, and more. Our group made a survey and we went around all areas at Ross and asked if they would like to take a survey for our project. Some students respectfully declined, others were happy to take it, and we unfortunately had the occasional “Yes, I will take it later.” All in all, we received 70 responses, with students from the Masters of Supply Chain Management being the program with the most respondents. Below is a graph of the programs with students who responded.
+
+To really understand if students use ChatGPT, we asked them, and the results are eye-opening. A whopping 33 students, or 47.1% of students said they use ChatGPT “Several times a week.” Furthermore, 19 students responded with “Daily,” and 15 students responded with “Occasionally.” See the graph below for more detail.
+
+Seeing as a majority of students surveyed use ChatGPT, it only reinforces the idea that as the leaders and best, we should take steps to utilize ChatGPT to our advantage by taking meaningful concepts from ChatGPT to apply to our lives. In the sections that follow, we will place emphasis on how students can utilize ChatGPT in terms of career planning, homework, and well-being to make their lives less stressful during their time at the Ross School of Business.
+
+
+<!--chapter:end:IntroResearch.Rmd-->
+
+# Our story
+This marks the beginning of our project. We want you, the students of the Ross School of Business, to walk away from this website knowing more about how to effectively use ChatGPT to your advantage to “Survive your time at the Ross School of Business.” We are just like you, stressed from all the homework, group projects, family matters, extracurricular activities that we participate in. Dealing with all of this puts an enormous amount of stress onto us and we are left feeling with the thought that we will not be able to accomplish our goals and dreams during our time here at Ross. 
+So, we want to help you achieve those dreams and goals by creating the “Ross Survival Kit.” The Ross Survival Kit is a best practices guide for you, the students, to effectively use and navigate ChatGPT to your advantage. We want to show you how to use ChatGPT in an easier and more effective way so that when you feel overwhelmed by the pile of homework, or career planning, or just your well being, you can use ChatGPT effectively to limit the amount of stress you have. 
+Since ChatGPT’s rise of popularity over the past year, students have flocked to OpenAI to get their use out of ChatGPT. Given all a user has to do is type a prompt into the text box, why are we trying to help students achieve something they already know how to do? Because we, along with everyone else at Ross, are the leaders and best. For our project it’s simple: we strive to make things better for students, we want the students to take meaningful lessons away from ChatGPT, not just the answer, and we want to make your lives less stressful to survive your time at the Ross School of Business.
+
+<!--chapter:end:OurStory.Rmd-->
+
+#Summary
+Why Should Students Use ChatGPT?
+The American Psychological Association argues that Chat GPT can be a great tool for Critical Thinking! Using the above tips help us find accurate, in-depth information that students can apply to think outside the box. The idea that ChatGPT restricts creativity is a misconception. Infact, ChatGPT enhances it by reducing our time spent on gathering the information, and utilizing that time in applying the information found. As students get more familiarized with the tools and how to use ChatGPT to optimize their search process. This will allow them to stimulate deeper thinking in the decision making, and make connections between diverse fields, which will allow new concepts and innovation to take place.
+What We Want You to Take Away From This Website
+ChatGPT is a tool used by students to get assistance with homework, career planning, and more. It is a tool that can be used by students to learn better and be more efficient in utilizing the sources as it makes search easier. It is one’s personalized google that provides responses wanted by students on a particular subject. In fact, almost 90% of Ross Students interviewed in our survey believe that professors should allow usage of chatGPT as it allows it to simplify complex problems and improves learning. Throughout this website, we made it clear that we want students to not copy and paste answers from ChatGPT, but rather learn from it as a supplementary tool if they are not able to use other resources. The leaders and best envision the future, and with ChatGPT on the rise, we wanted to look into the future on how to help students of the Ross School of Business.
+NOTE: Links to the information provided in this section are located in the References page.
+
+<!--chapter:end:Summary.Rmd-->
+
+#Team process
+Happy Faces, Happy Team
+When we took this picture, we did not know each other. Now we are told we have to work together for the next seven weeks building a website through RStudio and GitHub? How is that even possible? With teamwork, anything is possible. It started with taking lessons we learned each week in class and applying it to our team. The Professors stressed having psychological safety within a team, so we made sure to incorporate everyone's ideas during group meetings, give constructive feedback whenever possible, and make sure we kept our focus on a clear, common goal. 
+Does Anyone Know How to Use RStudio or GitHub?
+Using RStudio and GitHub to build this website was a challenging, but rewarding task. None of us had well-rounded experience in either, so how did we get here? We actually used ChatGPT! Refining prompts down to help us understand how to publish, edit, use Rmarkdown, and more. We combined our brains in order to figure out the most challenging task this semester. However, once we figured it out, it was rewarding as a team because it showed nothing is impossible for us. Throughout this project, we wanted to make sure we rewarded each other through achievments like presentations and our data gathering process.
+Work Distribution
+Dividing the work was actually easier than initially thought for us. We all had a passion for each section we wrote about. Matthew has a passion for storytelling and how we conducted our research. Pooja has a passion for career building, so she took the career planning section. Jie was focused on how ChatGPT can help students for homework so we assigned her that section. Jolene was conscious of ChatGPT's current ethical situations so she wrote about the controversy of ChatGPT. Lastly, Summer was very passionate about the well-being of her and other students at Ross so she took the well-being section. All in all, we knew we had to work together as a team to achieve this goal and distributing the work based on what we know we are good at helped make this project even better. 
+Challenges
+No group is perfect. We all had our challenges along the way with setting up meetings, making sure the meetings were productive, setting up GitHub, and much more. But, it is how we worked through those challenges to stick together towards our common goal. One class, we were provided with a survey of how our group members feel about how the group is performing. One member thought we could be doing a better job during meetings and making sure we all feel belonged. Instead of pushing back, we welcomed the feedback and worked together to make sure all of our future meetings were planned and stuck to our agenda. 
+
+<!--chapter:end:TeamProcess.Rmd-->
 
