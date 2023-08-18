@@ -2,7 +2,7 @@
 title: "Ross Community Survival Kit for Students"
 author: "Created by: Matthew Weintraub, Jie Wang, Pooja Modawel, Jolene Chung, Summer Qu"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output: bookdown::pdf_book
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -94,9 +94,8 @@ NOTE: Links to the information provided in this section are located in the Refer
 
 <!--chapter:end:06-share.Rmd-->
 
-`r if (knitr::is_html_output()) '
+
 # References {-}
-'`
 Introducing ChatGPTOpenAIhttps://openai.com › blog › chatgpt
 https://www.techtarget.com/whatis/definition/ChatGPT
 https://www.pcguide.com/apps/what-is-chat-gpt/
