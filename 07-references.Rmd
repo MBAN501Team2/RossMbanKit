@@ -1,3 +1,11 @@
 `r if (knitr::is_html_output()) '
 # References {-}
 '`
+Introducing ChatGPTOpenAIhttps://openai.com › blog › chatgpt
+https://www.techtarget.com/whatis/definition/ChatGPT
+https://www.pcguide.com/apps/what-is-chat-gpt/
+https://www.techgropse.com/blog/everything-you-need-to-know-about-chat-gpt/
+https://www.techtarget.com/whatis/definition/ChatGPT
+https://blog.waalaxy.com/en/chatgpt-reliable-sources/
+https://www.apa.org/monitor/2023/06/chatgpt-learning-tool
+https://www.mydreamgravity.com/post/chatgpt-in-career-planning#:~:text=Answer%3A%20ChatGPT%20is%20a%20chatbot,and%20feedback%20in%20real%20time.

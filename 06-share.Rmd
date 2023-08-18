@@ -1,31 +1,13 @@
-# Sharing your book
+# Controversy
+Is Using ChatGPT Cheating?
+Since its launch by OpenAI in November 2022, ChatGPT has become a hot topic on the internet. Educational integrity is a significant concern in the context of advanced AI like ChatGPT. The ease with which students can get answers, explanations, and even complete essays can lead to a culture of academic dishonesty. Without proper safeguards in place, the authenticity of students' work may be questioned. Schools and institutions might need to re-evaluate their assessment techniques, perhaps moving away from traditional forms of testing and focusing more on problem-solving, creativity, and application of knowledge, which are harder to cheat.
+Ethical Issues
+The responsibility and accountability of AI models, especially ones as advanced as ChatGPT, is a multifaceted issue that touches on ethics, law, and technology. When such a model provides a harmful or incorrect suggestion, determining who is responsible becomes crucial. The developers determine the model's training, including the data it's exposed to, and the techniques used to refine its responses. If there's a flaw in the model that leads to harmful outputs, it could be argued that the developers didn't do enough to mitigate potential risks. Given the complexity and the vast amount of data used to train these models, it's nearly impossible to predict and mitigate all harmful outputs. Some are concerned that the users of AI tools may misuse the tool or rely on it without exercising due diligence. For instance, a user knowingly prompts ChatGPT to generate harmful content. As AI technology advances, there's a growing need for regulatory agencies to create and enforce frameworks that ensure responsible AI use. These agencies could provide guidelines on the ethical development and deployment of AI, ensuring that all stakeholders are aware of their roles and responsibilities.
+Can ChatGPT replace my job?
+As technology evolves, the boundaries of what machines can achieve expand, and in many cases, this directly intersects with human roles. The capabilities of ChatGPT raise questions about the future of jobs that rely heavily on language skills, such as customer support and administrative roles. There's a genuine concern about economic shifts and job losses due to such advanced AI models. ChatGPT's ability to generate human-like text has implications for content creators. Writers, journalists, and editors might find that routine tasks, like drafting standard reports or basic articles, could be automated. However, jobs that require a deeper level of creativity, emotional resonance, and cultural context might remain beyond the reach of AI for the foreseeable future. A teaching assistant is another concern. ChatGPT can provide answers to a wide range of questions, making it a potential tool for tutoring or assisting students with homework. While it's unlikely to replace the nuanced understanding and mentorship a human teacher provides, it could reduce the demand for certain tutoring roles. While ChatGPT and similar models have the potential to automate certain job functions, the complete replacement of many roles remains a complex issue.
+Humans are too reliant on AI technology
+The convenience and capabilities of ChatGPT might lead to an over-reliance on technology, potentially stifling human creativity, critical thinking, and problem-solving skills. ChatGPT can instantly provide answers to all aspects of questions. Over time, this convenience can impact the processes associated with critical thinking. For creative professionals, the temptation to use ChatGPT for brainstorming or even content generation can be enticing. However, over-dependence might lead to a decline in original thought, with outputs reflecting more of the AI's training data than true human creativity. Relying on AI for quick solutions might also deprive individuals of the valuable learning that comes from problem-solving.
+NOTE: Links to the information provided in this section are located in the References page.
 
-## Publishing
-
-HTML books can be published online, see: https://bookdown.org/yihui/bookdown/publishing.html
-
-## 404 pages
-
-By default, users will be directed to a 404 page if they try to access a webpage that cannot be found. If you'd like to customize your 404 page instead of using the default, you may add either a `_404.Rmd` or `_404.md` file to your project root and use code and/or Markdown syntax.
-
-## Metadata for sharing
-
-Bookdown HTML books will provide HTML metadata for social sharing on platforms like Twitter, Facebook, and LinkedIn, using information you provide in the `index.Rmd` YAML. To setup, set the `url` for your book and the path to your `cover-image` file. Your book's `title` and `description` are also used.
-
-
-
-This `gitbook` uses the same social sharing data across all chapters in your book- all links shared will look the same.
-
-Specify your book's source repository on GitHub using the `edit` key under the configuration options in the `_output.yml` file, which allows users to suggest an edit by linking to a chapter's source file. 
-
-Read more about the features of this output format here:
-
-https://pkgs.rstudio.com/bookdown/reference/gitbook.html
-
-Or use:
-
-```{r eval=FALSE}
-?bookdown::gitbook
-```
 
 

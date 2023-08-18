@@ -1,30 +1,5 @@
-# Blocks
-
-## Equations
-
-Here is an equation.
-
-\begin{equation} 
-  f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}
-  (\#eq:binom)
-\end{equation} 
-
-You may refer to using `\@ref(eq:binom)`, like see Equation \@ref(eq:binom).
-
-
-## Theorems and proofs
-
-Labeled theorems can be referenced in text using `\@ref(thm:tri)`, for example, check out this smart theorem \@ref(thm:tri).
-
-::: {.theorem #tri}
-For a right triangle, if $c$ denotes the *length* of the hypotenuse
-and $a$ and $b$ denote the lengths of the **other** two sides, we have
-$$a^2 + b^2 = c^2$$
-:::
-
-Read more here <https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html>.
-
-## Callout blocks
-
-
-The R Markdown Cookbook provides more help on how to use custom blocks to design your own callouts: https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html
+# Disvantages of ChatGPT
+Although ChatGPT can be a useful tool for generating ideas and writing essays, it can also have a detrimental effect on students' creativity and composition skills. By relying solely on the artificial intelligence of the program, students are unable to exercise their own creative thinking and develop their own writing skills. This can lead to an over-reliance on the technology, reducing the students' ability to express themselves in a meaningful and unique way. 
+During the undergraduate and early graduate years, young professionals have the unique opportunity to hone their communication and critical thinking skills. It is during this time that many develop the capacity to think quickly and make sound decisions. These skills are essential for success in any field, and are often developed during this period of a young professional's life. However, if ChatGPT and other Articial Intelligence are extensively used in this period the next generation will lose the opportunity to develop critical skills. 
+For students that use ChatGPT for assignments and problem solving, they often encounter challenges with the accuracy and quality of the responses. In many cases, the answers are either inaccurate or the responses are similar and repetitive across users, which can cause frustration and lead to time wasted on obtaining the correct answer. ChatGPT has the potential of becoming a useful learning tool but it still has a long way to go before it could be totally relied on.
+NOTE: Links to the information provided in this section are located in the References page.
