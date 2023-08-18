@@ -19,24 +19,6 @@ In this project, we created chapters that we feel represent the main challenges 
 
 
 
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
-
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-
 <!--chapter:end:index.Rmd-->
 
 # Table of Contents
@@ -70,7 +52,7 @@ Hi, my name is Summer Qu. I graduated from American University in May majoring i
 
 <!--chapter:end:02-cross-refs.Rmd-->
 
-Welcome to our website!
+#Welcome to our website!
 The MBAn program is an intensive 10-month experience, packed with a wealth of information within a short timeframe. This abundance of material can create challenges for students as they strive to balance their academic goals with their mental health. In response to these common struggles, we present the “Ross Community Survival Kit” – a concise and practical reference guide. This kit empowers students to use AI generative models to effectively manage daily tasks, achieve personal goals, and strike a harmonious work-life balance. By incorporating stress management techniques, students can remain on track academically while ensuring their overall well-being.
 Throughout the website, we introduce the authors of the project, how ChatGPT works, ChatGPT's advantages/disadvantages and controversies, as well as the process we went through to create this guide. In the depth of this project, we created chapters that we feel represent the main challenges of students. The chapters will cover information about Career Planning, Homework Reference Guides, and Work-life Balance, all to provide students with a fun and successful experience at the Ross School of Business.
 
@@ -162,6 +144,7 @@ Chat GPT for Well Being
 
 <!--chapter:end:ChatGPT.Rmd-->
 
+#FQA
 From the survey conducted, Students were asked to tell us about problems they would like Chat GPT to address. Of all the responses, the two questions that were frequently mentioned by our respondents were:
 1.How can ChatGPT be more reliable and accurate for educational purposes?
 2.How can ChatGPT be tailored to better support learning and academic needs?

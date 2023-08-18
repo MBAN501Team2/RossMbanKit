@@ -1,6 +1,5 @@
-`r if (knitr::is_html_output()) '
+
 # References {-}
-'`
 Introducing ChatGPTOpenAIhttps://openai.com › blog › chatgpt
 https://www.techtarget.com/whatis/definition/ChatGPT
 https://www.pcguide.com/apps/what-is-chat-gpt/
